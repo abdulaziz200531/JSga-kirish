@@ -1,3 +1,4 @@
+alert ('Salom Java Script');
 let ism = 'Abdulaziz';
 console.log(ism);
 
